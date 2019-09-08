@@ -1,0 +1,4 @@
+ capturar el evento de un control HTML de tipo button:
+  lo desarrollaremos utilizando la metodología tradicional
+  accediendo directamente a las funciones del DOM y luego empleando la librería jQuery:
+
