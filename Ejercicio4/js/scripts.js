@@ -19,6 +19,7 @@ $(document).ready(function(){
             'color':'yellow',
             'border-radius':'50px'
         });
+        $('h2').toggle("slow");
     });
     $('#boton1').dblclick(function(){
         $('table').attr('border','1');
