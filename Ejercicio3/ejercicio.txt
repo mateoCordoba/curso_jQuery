@@ -1,0 +1,2 @@
+Confeccionar una tabla con 5 filas. Hacer que cambie de color la fila que se presiona con el mouse. Obtener la referencia a todos los elementos 'tr'.
+
